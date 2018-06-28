@@ -20,5 +20,4 @@ echo "mypassword" | docker secret create jenkins-pass -
   * jenkins
   * sonarqube
   * nexus  
-  * traefik
   * ... 
